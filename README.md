@@ -44,5 +44,7 @@ bash
 Kodu kopyala
 python drone_control.py
 The drone will take off, navigate between the waypoints, and then land.
+
+
 ⚠️ Safety Notice
 To avoid any unintended consequences, DO NOT use real coordinates from your location or sensitive areas directly in the script. Instead, use test coordinates in an open, safe area or a simulation environment.
